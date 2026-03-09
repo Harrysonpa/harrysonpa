@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi! I am Harryson Patrício
 
-<!--
-**Harrysonpa/harrysonpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Systems undergraduate with practical experience in backend development using Java. Currently working as an IT Intern at HEMOBRAS, where I support internal systems, infrastructure, and technology-related processes.
 
-Here are some ideas to get you started:
+My main focus is backend development, building and maintaining server-side applications with an emphasis on clean code, maintainability, and good software engineering practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am interested in improving my skills in Java, backend architectures, and modern development frameworks while gaining hands-on experience through professional work and personal projects.
+
+## Technical Focus
+
+* Backend Development with Java
+* RESTful APIs
+* Software Engineering Principles
+
+## Current Position
+
+IT Intern — HEMOBRAS
+
+## Education
+
+Bachelor's Degree in Information Systems
